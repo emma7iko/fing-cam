@@ -1,4 +1,4 @@
-# 📷 Cam Finger App
+# 📷 Fing Cam
 
 A real-time finger tracking web application built with **Vue 3**, **MediaPipe**, and **Chart.js**, powered by **Vite**.
 
@@ -39,7 +39,7 @@ A real-time finger tracking web application built with **Vue 3**, **MediaPipe**,
 
 ```bash
 git clone https://github.com/your-username/cam-finger-app.git
-cd cam-finger-app
+cd fing-cam
 npm install
 ```
 
