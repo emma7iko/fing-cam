@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "domain-expansion": "yarn run dev",
     "build": "vite build",
     "preview": "vite preview"
   },
