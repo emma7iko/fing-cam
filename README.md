@@ -4,14 +4,6 @@ A real-time finger tracking web application built with **Vue 3**, **MediaPipe**,
 
 ---
 
-## 🎬 Demo
-
-<video src="demo.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
-
----
-
 ## 🛠️ Features
 
 - ✋ Real-time finger/hand detection using **MediaPipe Hands**
