@@ -38,9 +38,9 @@ A real-time finger tracking web application built with **Vue 3**, **MediaPipe**,
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/cam-finger-app.git
+git clone https://github.com/emma7iko/fing-cam.git
 cd fing-cam
-npm install
+yarn install
 ```
 
 Also notice the difference between the left and right hands' thumbs
