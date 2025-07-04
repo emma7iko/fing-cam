@@ -16,7 +16,7 @@ A real-time finger tracking web application built with **Vue 3**, **MediaPipe**,
 
 - [Vue 3](https://vuejs.org/)
 - [Vite](https://vitejs.dev/)
-- [MediaPipe](https://google.github.io/mediapipe/)
+- [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide)
 - [Chart.js](https://www.chartjs.org/) via [vue-chartjs](https://vue-chartjs.org/)
 
 ---
